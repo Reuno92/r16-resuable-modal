@@ -30,6 +30,6 @@ function App() {
             <Depth confirmation={(value: boolean): void => setConfirm(value)} />
         </div>
     );
-}
+};
 
 export default App;
